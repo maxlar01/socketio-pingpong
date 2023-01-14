@@ -1,3 +1,5 @@
+<div align="center"><h1>Socket.io Pingpong 🏓</h1></div>
+
 ![preview](./preview.gif)
 
 # Table of Contents 📖
