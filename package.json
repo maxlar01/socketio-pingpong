@@ -1,0 +1,21 @@
+{
+  "name": "socketio-pingpong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlar01/socketio-pingpong.git"
+  },
+  "keywords": [],
+  "author": "Mostafa Rakha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxlar01/socketio-pingpong/issues"
+  },
+  "homepage": "https://github.com/maxlar01/socketio-pingpong#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
