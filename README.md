@@ -2,6 +2,8 @@
 
 ![preview](./preview.gif)
 
+<p align="center"><img src="https://img.shields.io/github/license/maxlar01/socketio-pingpong" alt="License" /> <img src="https://img.shields.io/npm/v/socket.io" alt="Socketio package" /></p>
+
 # Table of Contents 📖
 <!-- no toc -->
 - [Introduction ✨](#introduction-)
